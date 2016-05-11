@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "Mapwize"
-  s.version          = "1.5.0"
+  s.version          = "1.5.1"
   s.summary          = "Mapwize: The Indoor Mapping Platform"
 
   s.description      = <<-DESC
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://www.mapwize.io"
   s.license          = 'MIT'
   s.author           = { "Mapwize" => "contact@mapwize.io" }
-  s.source           = { :git => "https://github.com/Mapwize/mapwize-ios-sdk.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/STEAMULO/mapwize-ios-sdk.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
