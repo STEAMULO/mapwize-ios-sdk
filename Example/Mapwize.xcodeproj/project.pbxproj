@@ -43,7 +43,7 @@
 /* Begin PBXFileReference section */
 		02C9134C5E192EACA846F128 /* Pods_Mapwize_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mapwize_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A31E93DA9D2A45FD4CE46FA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		0C9755502C4B96C6A44DD4D2 /* Mapwize.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Mapwize.podspec; path = ../Mapwize.podspec; sourceTree = "<group>"; };
+		0C9755502C4B96C6A44DD4D2 /* STMapwize.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = STMapwize.podspec; path = ../STMapwize.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* Mapwize_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mapwize_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -197,7 +197,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				0C9755502C4B96C6A44DD4D2 /* Mapwize.podspec */,
+				0C9755502C4B96C6A44DD4D2 /* STMapwize.podspec */,
 				0A31E93DA9D2A45FD4CE46FA /* README.md */,
 				83869F56A22D0ED545FB72BA /* LICENSE */,
 			);
