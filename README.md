@@ -222,3 +222,9 @@ If you need any help, please contact us at contact@mapwize.io
 ## License
 
 Mapwize is available under the MIT license. See the LICENSE file for more info.
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [Mapwize](https://github.com/Mapwize)
